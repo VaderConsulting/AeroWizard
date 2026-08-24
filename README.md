@@ -2,7 +2,8 @@
 
 Windows Forms library for Aero Wizards (Vista-and-later wizard layout), with Visual Styles, glass/DWM helpers, and a design-time experience.
 
-**Library version:** 1.2.6 · **Target:** .NET Framework 3.5
+**Library version:** 1.2.6 · **Source last updated:** 2015-06-20  
+**Target:** .NET Framework 3.5
 
 ## Contents
 
