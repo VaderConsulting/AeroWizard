@@ -8,10 +8,10 @@ Windows Forms library for Aero Wizards (Vista-and-later wizard layout), with Vis
 ## Contents
 
 - `AeroWizard.sln`
-- `AeroWizard.csproj` — library (`WizardControl`, `WizardPage`, `StepWizardControl`, themed controls, native DWM/UxTheme wrappers)
-- `TestWizard/` — sample WinForms host that launches `MyWizard` / `MyStepWizard`
-- `AeroWizardHelp/` — Sandcastle Help File Builder project (not in the solution)
-- `AeroWizard.nuspec` — NuGet pack metadata (id `AeroWizard`, author David Hall)
+- `AeroWizard.csproj` - library (`WizardControl`, `WizardPage`, `StepWizardControl`, themed controls, native DWM/UxTheme wrappers)
+- `TestWizard/` - sample WinForms host that launches `MyWizard` / `MyStepWizard`
+- `AeroWizardHelp/` - Sandcastle Help File Builder project (not in the solution)
+- `AeroWizard.nuspec` - NuGet pack metadata (id `AeroWizard`, author David Hall)
 
 ## Attribution and provenance
 
