@@ -23,6 +23,10 @@ Windows Forms library for Aero Wizards (Vista-and-later wizard layout), with Vis
 
 This repository does not claim authorship of the library. See `THIRD_PARTY_NOTICES.md`.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 3.5
+
 ## License
 
 MIT, Copyright (c) 2013 David Hall. See `LICENSE`.
